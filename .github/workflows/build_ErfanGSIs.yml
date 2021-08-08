@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0310_all_JEmU4E3I6V6a.ozip
-  ROM_NAME: MIUI
+  ROM_NAME: 123wq
   TZ: Asia/Shanghai
 
 jobs:
